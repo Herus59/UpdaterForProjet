@@ -1,4 +1,10 @@
 
-<Version: 1.01>
-/data/test.zip https://wordpress.org/latest.zip
+<Version: 1.02>
+/data/Map004.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map005.json
+/data/Map010.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map010.json
+/data/Map016.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map016.json
+/data/Map017.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map017.json
+/data/Map018.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map018.json
+/data/Map019.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map019.json
 <End of Version>
