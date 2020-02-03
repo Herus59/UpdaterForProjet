@@ -8,3 +8,8 @@
 /data/Map018.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map018.json
 /data/Map019.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map019.json
 <End of Version>
+
+<Version: 1.03>
+/data/Map004.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map004.json
+/data/Map012.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map012.json
+/data/Weapons.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Weapons.json
