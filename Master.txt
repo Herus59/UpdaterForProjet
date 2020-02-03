@@ -13,3 +13,10 @@
 /data/Map004.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map004.json
 /data/Map012.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map012.json
 /data/Weapons.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Weapons.json
+<End of Version>
+
+<Version: 1.04>
+/data/Map004.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map004.json
+/data/Enemies.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Enemies.json
+/data/Skills.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Skills.json
+<End of Version>
