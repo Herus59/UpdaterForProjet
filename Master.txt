@@ -1,3 +1,4 @@
 
-<Version: 1.0>
+<Version: 1.01>
+/data/Enemies.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Enemies.json
 <End of Version>
