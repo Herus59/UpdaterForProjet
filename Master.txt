@@ -15,3 +15,10 @@
 <Version: 1.05>
 /data/Map015.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map015.json
 <End of Version>
+
+<Version: 1.06>
+/data/Map010.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map010.json
+/data/Map004.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map004.json
+/data/Map006.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map006.json
+/data/Items.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Items.json
+<End of Version>
