@@ -22,3 +22,7 @@
 /data/Map006.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map006.json
 /data/Items.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Items.json
 <End of Version>
+
+<Version: 1.065>
+/data/Map006.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map006.json
+<End of Version>
