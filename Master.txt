@@ -44,5 +44,4 @@
 /data/CommonEvents.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/CommonEvents.json
 /data/Enemies.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Enemies.json
 /data/Troops.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Troops.json
-/data/System.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/System.json
 <End of Version>
