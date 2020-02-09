@@ -30,18 +30,3 @@
 <Version: 1.09>
 /data/Map004.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map004.json
 <End of Version>
-
-<Version: 1.10>
-/data/Map004.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map004.json
-/data/Map011.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map011.json
-/data/Map022.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map022.json
-/data/Map026.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map026.json
-/data/Map023.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map023.json
-/data/Map024.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map024.json
-/data/Map025.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map025.json
-/data/Items.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Items.json
-/data/Skills.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Skills.json
-/data/CommonEvents.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/CommonEvents.json
-/data/Enemies.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Enemies.json
-/data/Troops.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Troops.json
-<End of Version>
