@@ -51,3 +51,7 @@
 <Version: 1.11>
 /data/Map025.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map025.json
 <End of Version>
+
+<Version: 1.12>
+/data/Map013.json https://raw.githubusercontent.com/Herus59/UpdaterForProjet/master/Map013.json
+<End of Version>
